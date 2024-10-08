@@ -7,7 +7,7 @@ const ContentCard = () => {
   return (
     <Container className="space-y-6">
       {/* First Card */}
-      <div className="mx-auto p-6 bg-white  rounded-lg flex flex-col md:flex-row items-center justify-between gap-10">
+      <div className="mx-auto p-6 bg-white  rounded-lg flex flex-col md:flex-row items-center justify-between gap-32">
         <div className="md:w-1/2 mb-4 md:mb-0">
           <img
             src={img1}
