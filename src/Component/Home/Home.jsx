@@ -5,6 +5,7 @@ import Footer from "../Footer";
 import Header from "../Header";
 import NewsletterSection from "../NewsletterSection";
 import SecondCounter from "../SecondCounter";
+import Testimonials from "../testimonials";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <Counter />
       <ContentCard />
       <SecondCounter />
+      <Testimonials />
       <NewsletterSection />
       <Footer />
     </div>
